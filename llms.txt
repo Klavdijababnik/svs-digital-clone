@@ -1,0 +1,35 @@
+# SVS Digital
+
+> Professional digital agency specializing in AI automation, e-commerce stores, websites, and custom web solutions. Based in Slovenia, serving clients globally.
+
+## About
+
+SVS Digital is a premium digital agency founded by Uroš Jovanović. We combine 10+ years of experience with cutting-edge AI technology to deliver high-performance digital solutions. We maintain a 5.0 Google rating and have served 500+ clients across various industries.
+
+## Services
+
+- [AI Solutions](/ai-solutions): Intelligent automation, AI chatbots, predictive analytics, process automation, and smart personalization. Starting from custom pricing.
+- [Online Stores](/online-stores): WooCommerce-based e-commerce stores with 10/10 CRO optimization, secure checkout, and mobile-first design. Starting from €399.
+- [Websites](/websites): Professional business websites optimized for lead generation and conversions. Starting from €299.
+- [Custom Projects](/custom-project): Fully bespoke web applications, SaaS platforms, and enterprise solutions. Custom pricing.
+
+## Key Differentiators
+
+- 5.0 Google Rating from verified clients
+- 10+ years of web development experience
+- 500+ successfully delivered projects
+- Transparent pricing with no hidden fees
+- Efficient delivery timelines
+- WooCommerce open-source foundation (no vendor lock-in)
+- AI-powered solutions for business automation
+
+## Contact
+
+- Website: https://fast-store-launch.lovable.app
+- Consultation: https://calendly.com/svsdigital/free-consultation
+- Location: Slovenia
+
+## Optional
+
+- [Full details](llms-full.txt)
+- [Free Resources](/resources)
